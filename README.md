@@ -4,21 +4,11 @@
 
 🌱I use this place to share some assignments📚, projects🔬, and ideas💡
 
-📫 How to reach me: 
-    1. QQ:8393455
-    2. WeChat:star8393455
-    3. Email:8393455@my.swjtu.edu.cn
-<!--
-**B1AnKAlpha/B1AnKAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me:
 
-Here are some ideas to get you started:
+ - QQ：    8393455
+ - WeChat:star8393455
+ - Email:8393455@my.swjtu.edu.cn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+
