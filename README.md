@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi  👋
 
+😄I am an undergraduate student majoring in Remote Sensing Science and Technology at Southwest Jiaotong University.
+
+🌱I use this place to share some assignments📚, projects🔬, and ideas💡
+
+📫 How to reach me: 
+    1. QQ:8393455
+    2. WeChat:star8393455
+    3. Email:8393455@my.swjtu.edu.cn
 <!--
 **B1AnKAlpha/B1AnKAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
