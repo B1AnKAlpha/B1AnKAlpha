@@ -7,8 +7,8 @@
 📫 How to reach me:
 
  - QQ：    8393455
- - WeChat:star8393455
- - Email:8393455@my.swjtu.edu.cn
+ - WeChat:     star8393455
+ - Email:     8393455@my.swjtu.edu.cn
 
     
 
