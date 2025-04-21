@@ -4,6 +4,9 @@
 
 🌱I use this place to share some assignments📚, projects🔬, and ideas💡
 
+👋🏻Currently studying computer vision and machine learning
+
+
 📫 How to reach me:
 
  - QQ：    8393455
