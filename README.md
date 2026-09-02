@@ -9,8 +9,7 @@
 
 📫 How to reach me:
 
- - QQ：    8393455
- - WeChat:     star8393455
+ -EMAIL：8393455@gmail.com
 
     
 
