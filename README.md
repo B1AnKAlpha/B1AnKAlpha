@@ -1,15 +1,12 @@
 ## Hi  👋
 
-😄I am an undergraduate student majoring in Remote Sensing Science and Technology at Southwest Jiaotong University.
+😄I am an undergraduate student in China
 
-🌱I use this place to share some assignments📚, projects🔬, and ideas💡
-
-👋🏻Currently reserching computer vision and machine learning
-
+🌱My dream is to become a top-tier computer vision engineer.
 
 📫 How to reach me:
 
- -EMAIL：8393455@gmail.com
+ - EMAIL：8393455@gmail.com
 
     
 
