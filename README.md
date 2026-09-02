@@ -6,7 +6,7 @@
 
 📫 How to reach me:
 
- - EMAIL：8393455@gmail.com
+ - EMAIL：8393455@my.swjtu.edu.cn
 
     
 
